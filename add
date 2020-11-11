@@ -1,0 +1,13 @@
+include <iostream.h>
+include std namespace;
+int main()
+{
+  float a , b , c;
+  a=3.4
+  b=5.5
+  cout<<"enter two numbers"<<endl;
+  cin>>a>>b;
+  c=a+b;
+  cout<<"product="<<c;
+  return 0;
+ }
